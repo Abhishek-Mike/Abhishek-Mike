@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abhishek-Mike
-- 👀 I’m interested in ...Coding & Gaming
+- 👋 Hi, I’m @Abhishek-Sadhu...
+- 👀 I’m interested in ...learning new tech & Gaming extensively.
 - 🌱 I’m currently learning ...Microservices & Angular
 - 💞️ I’m looking to collaborate on ...Microservices projects
 - 📫 How to reach me ...Just drop a mail or dm on my LinkedIn handle
